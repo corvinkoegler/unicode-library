@@ -20,10 +20,3 @@ class Card {
         card.className = "elementCard";
     }
 }
-// create symbol card
-
-
-for (let i = 0; i <= 20; i++) {
-    //display.append(card.cloneNode(true));
-}
-
